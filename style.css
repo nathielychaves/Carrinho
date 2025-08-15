@@ -10,8 +10,8 @@ body {
 }
 
 body > header {
-  background: #111;
-  color: white;
+  background: #ffceec;
+  color: rgb(185, 127, 204);
   font-size: 24px;
   padding: 20px 0;
   display: -webkit-box;
@@ -109,7 +109,7 @@ table tbody tr td {
 }
 
 .qty {
-  background: #eee;
+  background: #ffceec;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -175,15 +175,15 @@ aside {
 
 aside .box {
   margin-bottom: 15px;
-  border: 1px solid #ccc;
-  background: #eee;
-  color: #222;
+  border: 1px solid #f5d3ff;
+  background: #f2d2ff;
+  color: #54165c;
 }
 
 aside .box header {
   padding: 15px 20px;
   font-size: 18px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ffc1fc;
 }
 
 aside .box .info {
@@ -199,7 +199,7 @@ aside .box .info > div {
       -ms-flex-pack: justify;
           justify-content: space-between;
   margin-bottom: 10px;
-  color: #555;
+  color: #54165c;
 }
 
 aside .box .info > div:last-child {
@@ -207,7 +207,7 @@ aside .box .info > div:last-child {
 }
 
 aside .box .info button {
-  color: #28a745;
+  color: #54165c;
   background: transparent;
   border: 0;
   display: -webkit-box;
@@ -221,7 +221,7 @@ aside .box .info button {
 
 aside .box footer {
   padding: 15px 20px;
-  background: #ddd;
+  background: #ffc1fc;
   font-size: 18px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -235,7 +235,7 @@ aside > button {
   border: 0;
   padding: 15px 0;
   color: white;
-  background: #28a745;
+  background: #ff97d0;
   display: block;
   width: 100%;
   text-transform: uppercase;
@@ -244,6 +244,6 @@ aside > button {
 }
 
 aside > button:hover {
-  background: #3bc55b;
+  background: #d38fe0;
 }
 /*# sourceMappingURL=styles.css.map */
