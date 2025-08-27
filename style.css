@@ -105,7 +105,7 @@ table tbody tr td {
 }
 
 .product .info .category {
-  color: #666;
+  color: #d98eb1;
 }
 
 .qty {
@@ -207,7 +207,7 @@ aside .box .info > div:last-child {
 }
 
 aside .box .info button {
-  color: #54165c;
+  color: #65356b;
   background: transparent;
   border: 0;
   display: -webkit-box;
@@ -221,7 +221,7 @@ aside .box .info button {
 
 aside .box footer {
   padding: 15px 20px;
-  background: #ffc1fc;
+  background: #f8f9c3;
   font-size: 18px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -235,7 +235,7 @@ aside > button {
   border: 0;
   padding: 15px 0;
   color: white;
-  background: #ff97d0;
+  background: #fec1e3;
   display: block;
   width: 100%;
   text-transform: uppercase;
@@ -244,6 +244,12 @@ aside > button {
 }
 
 aside > button:hover {
-  background: #d38fe0;
+  background: #edb6f8;
 }
 /*# sourceMappingURL=styles.css.map */
+
+
+
+img {
+  width: 90px;
+  }
